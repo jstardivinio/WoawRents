@@ -1,8 +1,8 @@
 <p align="center"><img src="./resources/img/wr_transparent.png" width="400"></p>
 
-## About Laravel
+## About WoawRents
 
-Une Application web dévélopé aved le framework Laravel. Son but est de faciliter la
+Une Application web dévélopé avec le framework Laravel. Son but est de faciliter la
 tache a toute personnes qui est a la recherche d’un logement au Cameroun en mettant ses données qui
 consistent d’un vaste nombre de logement de tout types et catégories sur tout l’étendue du territoire
 Camerounais a leur disponibilité. Elle offre aussi un espace de publicité pour ceux qui détiennent des
